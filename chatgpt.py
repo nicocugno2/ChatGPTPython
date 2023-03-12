@@ -1,8 +1,9 @@
 # pip install openai
 import openai
 
+# La user_key varia depende el usuario y debe generarse desde https://openai.com/product
 
-openai.api_key = "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"
+openai.api_key = "(user_key)"
 
 
 while True:
